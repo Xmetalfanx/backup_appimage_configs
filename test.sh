@@ -4,8 +4,6 @@
 
 
 
-assign_all_vars
-
-check_if_config_locations_exist
+handle_all_configs
 
 #compress_backup_location
